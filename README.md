@@ -1,9 +1,9 @@
 # hello-world
 
+tu cos dopisze
 
 Jeszcze cos napisze bo wczesniej nie dalem komentarza
-
-jeszcze cos dopisuje i jeszcze cos wymarze
+//ponizej wymazalem
 
 
 i jeszcze troche
